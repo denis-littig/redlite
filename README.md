@@ -5,13 +5,6 @@
 [![Issues][issues-shield]][issues-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
 <h3 align="center">Redlite (Reddit Clone)</h3>
 <h4 align="center">Porfolio Project</h4>
 <h4 align="center">Under Development</h4>
@@ -43,9 +36,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/dnz)
-
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Denis littig - [@dnz](https://twitter.com/dnz)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
