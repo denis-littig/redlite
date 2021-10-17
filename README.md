@@ -2,7 +2,7 @@
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-<h3 align="center">Redlite (Reddit Clone)</h3>
+<h3 align="center">Reddlite (Reddit Clone)</h3>
 <h3 align="center">Porfolio Project</h3>
 <h4 align="center">Under Development</h4>
 
