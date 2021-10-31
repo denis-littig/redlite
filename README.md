@@ -1,4 +1,4 @@
-<div id="top"></div>
+<div id="top" align="center"></div>
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
