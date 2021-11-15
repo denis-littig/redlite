@@ -4,7 +4,7 @@
 
 <h3 align="center">Reddlite (Reddit Clone)</h3>
 <h3 align="center">Porfolio Project</h3>
-<h4 align="center">Under Development</h4>
+<h5 align="center">Under Development</h5>
 
 ### Built With
 
